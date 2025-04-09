@@ -2,14 +2,16 @@
 
 This project is a mini-sized arcade claw machine designed and built as part of a final project for **EMT 2461 (Electromechanical Software)**. The machine is fully student-built and coded, using Arduino hardware and custom mechanical design.
 
-> 🚧 **Note:** This repository is still in progress. Additional files including finalized code, wiring diagrams, and media will be uploaded soon.
-
 ---
 
-## 🛠️ Project Overview
+## 📸 Project Gallery
 
-The goal of this project was to design a functional arcade claw machine from scratch using **Arduino**, **C++**, and various mechanical/electrical components. The joystick allows users to control a claw along X, Y, and Z axes to retrieve small items.
+Here are some key visuals from my actual build process:
 
+- [Aluminum Extrusion Frame](images/Aluminum%20Extrusion%20Frame.jpg)
+- [Electrical Components](images/Electronic%20Components.jpg)
+- [String Attachment on DC Motor](images/String%20Attatchment%20onto%20pulleys%20on%20DC%20Motor%20Z-Axis.jpg)
+- [End Result](images/Arcade%20Claw%20Machine%20Prototype%20End%20Result.jpg)
 ---
 
 ## 🔩 Hardware Used
